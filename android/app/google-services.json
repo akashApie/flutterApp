@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863995364401",
+    "project_id": "pickupninjaakash",
+    "storage_bucket": "pickupninjaakash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863995364401:android:d55ff871a39dca1facc110",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4HgsRJupJ1zzh4A9wsjCqZ3mMOFxAnq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863995364401:android:f3771bd1f731c042acc110",
+        "android_client_info": {
+          "package_name": "com.pickupninja.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4HgsRJupJ1zzh4A9wsjCqZ3mMOFxAnq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
